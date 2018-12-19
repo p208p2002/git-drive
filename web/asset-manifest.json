@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.491f3d1d.chunk.css",
-  "main.js": "/static/js/main.cfd31106.chunk.js",
-  "main.js.map": "/static/js/main.cfd31106.chunk.js.map",
-  "static/js/1.f8a7aa1f.chunk.js": "/static/js/1.f8a7aa1f.chunk.js",
-  "static/js/1.f8a7aa1f.chunk.js.map": "/static/js/1.f8a7aa1f.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.491f3d1d.chunk.css.map": "/static/css/main.491f3d1d.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.e4b4dfb06a093944b26269b13f6584fc.js": "/precache-manifest.e4b4dfb06a093944b26269b13f6584fc.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "https://p208p2002.github.io/git-drive/web/static/css/main.491f3d1d.chunk.css",
+  "main.js": "https://p208p2002.github.io/git-drive/web/static/js/main.37fc7a99.chunk.js",
+  "main.js.map": "https://p208p2002.github.io/git-drive/web/static/js/main.37fc7a99.chunk.js.map",
+  "static/js/1.f8a7aa1f.chunk.js": "https://p208p2002.github.io/git-drive/web/static/js/1.f8a7aa1f.chunk.js",
+  "static/js/1.f8a7aa1f.chunk.js.map": "https://p208p2002.github.io/git-drive/web/static/js/1.f8a7aa1f.chunk.js.map",
+  "runtime~main.js": "https://p208p2002.github.io/git-drive/web/static/js/runtime~main.344567e2.js",
+  "runtime~main.js.map": "https://p208p2002.github.io/git-drive/web/static/js/runtime~main.344567e2.js.map",
+  "static/css/main.491f3d1d.chunk.css.map": "https://p208p2002.github.io/git-drive/web/static/css/main.491f3d1d.chunk.css.map",
+  "index.html": "https://p208p2002.github.io/git-drive/web/index.html",
+  "precache-manifest.4527481993707d205bd782bf7fd199da.js": "https://p208p2002.github.io/git-drive/web/precache-manifest.4527481993707d205bd782bf7fd199da.js",
+  "service-worker.js": "https://p208p2002.github.io/git-drive/web/service-worker.js"
 }
