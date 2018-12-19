@@ -8,7 +8,13 @@ class View extends Component {
     render() {
         return (
             <div className="container">
-                <a href="https://github.com/p208p2002/git-drive/blob/master/README.md">Get some problem?</a>
+                <a
+                    href="https://github.com/p208p2002/git-drive/blob/master/README.md"
+                    rel='noopener noreferrer'
+                    target='_blank'
+                >
+                Get some problem?
+                </a>
                 <UpLoad/>
             </div>
         );
