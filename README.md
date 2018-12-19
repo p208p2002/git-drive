@@ -1,5 +1,5 @@
 # Git Drive
-Git is a Cloud Space base on GitHub, you can use your Repo as a cloud storage
+Git Drive is a Cloud Space base on GitHub, you can use your Repo as a cloud storage
 
 [Use Git Drive with your Repo now](https://p208p2002.github.io/git-drive/web/)
 
@@ -7,7 +7,7 @@ Git is a Cloud Space base on GitHub, you can use your Repo as a cloud storage
 1. Get your token
 > Settings > Developer settings > ersonal access tokens > Generate new token
 
-2. Create a token with "repo:status" and "public_repo" Option
+2. Create a token with "repo:status" and "public_repo" option
 
 3. Create your exclusive Repo for Git Drive
 
