@@ -138,10 +138,10 @@ class View extends Component {
 					Authorization: 'token ' + token
 				},
 				data: {
-					"message": "my commit message",
+					"message": "upload by Git Drive",
 					"committer": {
-						"name": "Scott Chacon",
-						"email": "schacon@gmail.com"
+						"name": "Git Drive",
+						"email": "gitdrive@gitdrive.com"
 					},
 					"content": file
 				}
