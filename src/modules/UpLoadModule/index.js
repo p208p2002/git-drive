@@ -233,7 +233,7 @@ class View extends Component {
 						Submit
 					</button>
 					<br />
-					{showFailMsg ? <small className='text-danger'>upload fail,check token of file</small> : null}
+					{showFailMsg ? <small className='text-danger'>upload fail,check token or file</small> : null}
 
 				</form>
 				File name:{fileName}
