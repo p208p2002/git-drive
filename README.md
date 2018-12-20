@@ -1,7 +1,7 @@
 # Git Drive
 Git Drive is a cloud space base on GitHub, you can use your repo as a cloud storage
 
-[Use Git Drive with your repo now](https://p208p2002.github.io/git-drive/web/)
+[Use Git Drive with your repo now](https://p208p2002.github.io/git-drive)
 
 # How to use
 1. Get your token
