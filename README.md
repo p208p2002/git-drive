@@ -11,6 +11,6 @@ Git Drive is a cloud space base on GitHub, you can use your repo as a cloud stor
 
 3. Create your exclusive Repo for Git Drive
 
-4. Go to [Git Drive](https://p208p2002.github.io/git-drive/web/) enter your token and repo name also your file
+4. Go to [Git Drive](https://p208p2002.github.io/git-drive) enter your token and repo name also your file
 
 5. Get the link and enjoy it 😉
